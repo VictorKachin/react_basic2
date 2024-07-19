@@ -13,4 +13,3 @@ reactRoot.render(
 )
 
 //https://www.youtube.com/watch?v=CGJp7PMBF1I
-//17:05
